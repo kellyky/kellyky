@@ -16,7 +16,7 @@ Software Developer
 ### Portfolio Projects
 
 * [Temperature Converter](https://git.sr.ht/~kotp/KellysKodingKompendium/tree/master/item/rubylearning/1_week/2c_convert/) (ruby): library and command line tool that converts between 8 units, using Kelvin as a proxy.
-* [[wip] Portfolio](http://github.com/kellyky/Portfolio/tree/portfolio) (React/Tailwind/Figma): React project and soon-to-be Portfolio.
+* [[wip] Portfolio](http://github.com/kellyky/Portfolio/) (React/Tailwind/Figma): React project and soon-to-be Portfolio.
 * [Personal website / blogposts](https://github.com/kellyky/website) (HTML/CSS/Ruby): Personal website linking to blog posts.
 * [Mastermind](https://github.com/kellyky/mastermind) (ruby): text-based game to play in the command line. A player has 12 attempts to guess a 4 color code. Supports 3 difficulty modes.
 * [Exercism](https://exercism.org/profiles/kellyky): Overview. Code challenges, code reviews (both as mentee and mentor), etc.
