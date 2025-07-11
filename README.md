@@ -15,6 +15,7 @@ Software Developer
 
 ### Portfolio Projects
 
+* [You might want a Data Object if...](https://sr.ht/~kells/you-might-want-a-data-object-talk/): RailsConf 2025 Lightning Talk on Ruby's Data class.
 * [Temperature Converter](https://git.sr.ht/~kotp/KellysKodingKompendium/tree/master/item/rubylearning/1_week/2c_convert/) (ruby): library and command line tool that converts between 8 units, using Kelvin as a proxy.
 * [[wip] Portfolio](http://github.com/kellyky/Portfolio/) (React/Tailwind/Figma): React project and soon-to-be Portfolio.
 * [Personal website / blogposts](https://github.com/kellyky/website) (HTML/CSS/Ruby): Personal website linking to blog posts.
