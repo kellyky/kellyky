@@ -3,24 +3,16 @@ Hi 👋 My name is Kelly Popko
 
 Software Developer
 ------------------
+Musician, digital artist, cosmetic formulator, and figure-outer of things.
 
-3 years experience
+### Projects
 
-* 🌍  I'm based in Milwaukee
-* ✉️  You can contact me at [kelpopko@gmail.com](mailto:kelpopko@gmail.com)
-* 🚀  I'm currently working on [Temperature Converter](https://git.sr.ht/~kotp/KellysKodingKompendium/tree/master/item/rubylearning/1_week/2c_convert/)
-* 🧠  I'm learning React and Tailwind
-* 🤝  I'm open to collaborating on Ruby, and open source projects
-* ⚡  Musician, digital artist, figure-outer of things
-
-### Portfolio Projects
-
-* [You might want a Data Object if...](https://sr.ht/~kells/you-might-want-a-data-object-talk/): RailsConf 2025 Lightning Talk on Ruby's Data class.
 * [Temperature Converter](https://git.sr.ht/~kotp/KellysKodingKompendium/tree/master/item/rubylearning/1_week/2c_convert/) (ruby): library and command line tool that converts between 8 units, using Kelvin as a proxy.
-* [[wip] Portfolio](http://github.com/kellyky/Portfolio/) (React/Tailwind/Figma): React project and soon-to-be Portfolio.
+* [Portfolio website](http://github.com/kellyky/Portfolio/) ([preview](https://portfolio-kelly-popko.netlify.app/)) (React/Tailwind/Figma): React project and soon-to-be Portfolio. 
 * [Personal website / blogposts](https://github.com/kellyky/website) (HTML/CSS/Ruby): Personal website linking to blog posts.
 * [Mastermind](https://github.com/kellyky/mastermind) (ruby): text-based game to play in the command line. A player has 12 attempts to guess a 4 color code. Supports 3 difficulty modes.
 * [Exercism](https://exercism.org/profiles/kellyky): Overview. Code challenges, code reviews (both as mentee and mentor), etc.
+* [You might want a Data Object if...](https://sr.ht/~kells/you-might-want-a-data-object-talk/): RailsConf 2025 Lightning Talk on Ruby's Data class.
 
 ### Skills
 
